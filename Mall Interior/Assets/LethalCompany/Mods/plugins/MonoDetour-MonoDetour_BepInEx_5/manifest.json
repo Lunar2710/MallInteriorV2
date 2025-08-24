@@ -1,0 +1,12 @@
+{
+  "namespace": "MonoDetour",
+  "name": "MonoDetour_BepInEx_5",
+  "description": "Integrates MonoDetour's logger with BepInEx and as a side effect initializes MonoDetour early. MonoDetour is an easy and convenient .NET detouring library, powered by MonoMod.RuntimeDetour.",
+  "version_number": "0.6.14",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "MonoDetour-MonoDetour-0.6.14"
+  ],
+  "website_url": "https://github.com/MonoDetour/MonoDetour",
+  "FullName": "MonoDetour-MonoDetour_BepInEx_5"
+}

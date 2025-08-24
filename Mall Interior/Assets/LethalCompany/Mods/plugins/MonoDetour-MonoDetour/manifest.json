@@ -1,0 +1,11 @@
+{
+  "namespace": "MonoDetour",
+  "name": "MonoDetour",
+  "description": "Easy and convenient .NET detouring library, powered by MonoMod.RuntimeDetour.",
+  "version_number": "0.6.14",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": "https://github.com/MonoDetour/MonoDetour",
+  "FullName": "MonoDetour-MonoDetour"
+}
